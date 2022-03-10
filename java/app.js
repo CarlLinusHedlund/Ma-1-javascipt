@@ -37,3 +37,11 @@ if (orderHasShipped === true) {
 for (var count = 0; count <= 9; count++){
     console.log(count);
 }
+
+
+//the logical or (||) operator
+var dayOfTheWeek = "Saturday"
+if (dayOfTheWeek === "Saturday || dayOfTheWeek === "Sunday"){
+console.log ("It is weekend yaaay!")
+};
+
